@@ -2,6 +2,7 @@
 - 🧐 Assembly, C, C++, Rust.
 - 💫 asterisk*
 - 🤱 Vung Tau, Vietnam
+- 📖 University of Information Technology - Vietnam National University, Ho Chi Minh City
 
 <!---
 zr0x8/zr0x8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
